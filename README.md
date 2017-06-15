@@ -1,2 +1,3 @@
 # hello-world
-So um repositori teste
+So um repositorio teste 
+ola estou editando esse codigo para entender como funciona a plataforma github
